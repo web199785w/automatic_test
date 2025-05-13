@@ -1,0 +1,6 @@
+# .gitignore 放在仓库根
+venv/
+*.egg-info/
+__pycache__/
+*.pyc
+.pytest_cache/
